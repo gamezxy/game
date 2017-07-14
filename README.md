@@ -1,4 +1,4 @@
-<img src="http://http://119.23.155.48/logo.jpg" width=200>
+<img src="http://119.23.155.48/logo.jpg" width=200>
 
 掌心游棋牌
 
